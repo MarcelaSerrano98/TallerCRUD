@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "nombre": "Marcela",
+        "apellido": "Albarracin",
+        "email": "lm@gmail.com",
+        "telefono": "3178901234"
+    },
+    {
+        "Id": 2,
+        "nombre": "Sebas",
+        "apellido": "Quintero",
+        "email": "sq@gmail.com",
+        "telefono": "3178901234"
+    },
+    {
+        "Id": 3,
+        "nombre": "Sara",
+        "apellido": "Nu\u00f1ez",
+        "email": "sn@gmail.com",
+        "telefono": "3178901234"
+    },
+    {
+        "Id": 4,
+        "nombre": "Cristofer",
+        "apellido": "Perez",
+        "telefono": "3228361688",
+        "email": "cp@gmail.com"
+    }
+]
